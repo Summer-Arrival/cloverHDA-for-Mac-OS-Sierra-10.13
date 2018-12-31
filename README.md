@@ -1,9 +1,14 @@
 # CloverHDA High Sierra 10.13
 ![HDA Icon](https://github.com/insanelydeepak/cloverHDA-for-Mac-OS-Sierra-10.12/blob/master/res/cloverHDA.jpg?raw=true) 
 
+___
+
 Native audio for unsupported codecs in Mac OS Hight Sierra 10.13 with Clover
 This cloverHDA.kext enables audio/sound on Mac OS Sierra 10.13
+___
 
+
+if you like this project, please star it.
 
 ### Requirements : 
       1 - Vanilla/Native AppleHDA 
